@@ -17,6 +17,8 @@ Install VS Code: https://code.visualstudio.com/download
 
 And then add the PlatformIO-extension: https://platformio.org/install/ide?install=vscode
 
+![change lesson before upload](hints/vscodehint.png?raw=true)
+
 ## Exercises
 
 Clone this repo and solve the lessons provided. By solving all lessons you will be able to put together the bare minimums to qualify for a Sumo match.
